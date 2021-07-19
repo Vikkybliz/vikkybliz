@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Twitter Follow](https://img.shields.io/twitter/follow/vikkybliz?label=Twitter%20followers&style=social)
 
 <!--
 **Vikkybliz/vikkybliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
