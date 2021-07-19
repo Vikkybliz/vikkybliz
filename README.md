@@ -1,6 +1,9 @@
 ### Hi there <img src="https://media1.tenor.com/images/20c88c4f96a41aa12e0e55d61395553f/tenor.gif?itemid=16799018" width="30px"/>
 ![GitHub followers](https://img.shields.io/github/followers/vikkybliz?label=Gituhb%20Followers&style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/vikkybliz?label=Twitter%20followers&style=social)
 
+Profile Views<br>
+![Visitor Count](https://profile-counter.glitch.me/{Vikkybliz}/count.svg)
+
 <!--
 **Vikkybliz/vikkybliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
