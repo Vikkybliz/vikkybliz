@@ -1,6 +1,7 @@
-### Hi there <img src="https://media1.tenor.com/images/20c88c4f96a41aa12e0e55d61395553f/tenor.gif?itemid=16799018" width="30px"/>
+<!-- 
+### Hi there <img src="https://media1.tenor.com/images/20c88c4f96a41aa12e0e55d61395553f/tenor.gif?itemid=16799018" width="30px"/> -->
 ![GitHub followers](https://img.shields.io/github/followers/vikkybliz?label=GitHub%20Followers&style=social) ![GitHub User's stars](https://img.shields.io/github/stars/vikkybliz?label=GitHub%20Stars&style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/vikkybliz?label=Twitter%20followers&style=social)
-
+ <img src="https://imgproxy-ouch.icons8.com/2-9bx0OvNr2ZJeGDPS6sNSHAVV7yutunDTN5DVRhwqE/rs:fit:664:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvOTE0/LzU1OGRjZjYyLTVj/NDUtNDI0Yy1hNmMz/LTBiODM2NTFmMjY1/MC5wbmc.png" width="300px" height="300px" alt="picture" /><br>
 <a href="https://twitter.com/vikkybliz" target="_blank"><img src="https://img.icons8.com/nolan/2x/twitter.png" alt="twittter logo" width="50px" height="50px"/></a>
 <a href="https://www.linkedin.com/in/vikkybliz" target="_blank"><img src="https://img.icons8.com/nolan/2x/linkedin.png" alt="linkedin logo" width="50px" height="50px"/></a>
 <a href="https://instagram.com/vikkybliz" target="_blank"><img src="https://img.icons8.com/nolan/2x/instagram-new.png" alt="instagram logo" width="50px" height="50px"/></a>
