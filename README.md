@@ -2,7 +2,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/vikkybliz?label=GitHub%20Followers&style=social) ![GitHub User's stars](https://img.shields.io/github/stars/vikkybliz?label=GitHub%20Stars&style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/vikkybliz?label=Twitter%20followers&style=social)
 
 <a href="twitter.com/vikkybliz" target="_blank"><img src="https://img.icons8.com/nolan/2x/twitter.png" alt="twittter logo" width="50px" height="50px"/></a>
-<a href="instagram.com/vikkybliz" target="_blank"><img src="https://img.icons8.com/nolan/2x/instagram-new.png" width-"50px" height="50px" alt="instagram logo" /></a>
+<a href="https://www.linkedin.com/in/vikkybliz" target="_blank"><img src="https://img.icons8.com/nolan/2x/linkedin.png" alt="linkedin logo" width="50px" height="50px"/></a>
+<a href="instagram.com/vikkybliz" target="_blank"><img src="https://img.icons8.com/nolan/2x/instagram-new.png" alt="instagram logo" width="50px" height="50px"/></a>
 
 Profile Views<br>
 ![Visitor Count](https://profile-counter.glitch.me/{Vikkybliz}/count.svg)
